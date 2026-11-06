@@ -1,0 +1,10 @@
+# Common files
+
+SBS.md
+SBS-BE.md
+
+#Frontend
+client-web/node_modules/  
+
+#Backend
+server/node_modules/
